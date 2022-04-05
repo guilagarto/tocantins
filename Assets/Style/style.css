@@ -8,6 +8,7 @@
     border: solid red;
   }
 
-  #footer{
-    background-color:gray;
+  .footer{
+    background-color:blue;
+    
   }
